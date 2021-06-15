@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>menu </title>
+</head>
+<body background="IMAGENES\SPIDE SOL.jpg">
+
+	<ol type="1" start="10"><font size="5" colors="#483D8B">
+	<li><a href="derecho.html" target="der">Home</a></li>
+	<li><a href="Ben 10.html" target="der">Ben 10</a></li>
+	<li><a href="José José.html" target="der">Los 10 mejores temas de José José y Discos Homenaje</a></li>
+	<li><a href="Luis Miguel.html" target="der">Las 11 Mejores Canciones de Luis Miguel</a></li>
+	</font></ol>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Las 11 Mejores Canciones de Luis Miguel</title>
+
+</head>
+
+<body background="IMAGENES\LUISMI.jpg">
+	
+<body LINK="#00FF7F" VLINK:"#E6E6FA">
+<h1><font color="#008080" SIZE="5"><MARQUEE BEHAVIOR=ALTERNATE>Mejores canciones de Luis Miguel</MARQUEE></font></h1>
+<p><font color="#3CB371" size="5"><img src="IMAGENES\bugs-bunny-13.gif" align="right" width="240" height="200">Luis Miguel ha rematado con distintos hits que se siguen coreando sin descanso.Por un lado en la polémica y por el otro los récords musicales; repasemos las 15 canciones más escuchadas del ‘sol de México’.</font></p>
+
+<p><b>Canciones:</b>
+<UL>
+<a href="#Seraquenomeamas"><LI><u>11. SERÁ QUE NO ME AMAS</u></LI></a>
+<a href="#Cuandocalientaelsol"><LI><U>10. CUANDO CALIENTA EL SOL</u></LI></a>
+<a href="#Friacomoelviento"><LI><U>9. FRÍA COMO EL VIENTO</u></LI></a>
+<a href="#Echameamilaculpa"><LI><U>8. ECHAME A MÍ LA CULPA</U></LI></a>
+<a href="#Labikina"><LI><U>7. LA BIKINA</U></LI></a>
+<a href="#Sabesunacosa"><LI><U>6. SABES UNA COSA</U></LI></a>
+<a href="#Suave"><LI><U>5. SUAVE</U></LI></a>
+<a href="#Pordebajodelamesa"><LI><U>4. POR DEBAJO DE LA MESA</U></LI></a>
+<a href="#Tengotodoexceptoati"><LI><U>3. TENGO TODO EXCEPTO A TI</U></LI></a>
+<a href="#Lamediavuelta"><LI><U>2. LA MEDIA VUELTA</U></LI></a>
+<a href="#Ahoratepuedesmarchar"><LI><U>1. AHORA TE PUEDES MARCHAR</U></LI></a>
+</UL></P>
+
+
+
+
+<h2 id="Seraquenomeamas"><Font color="White" size="5"> 11. SERÁ QUE NO ME AMAS</FONT></H2>
+<P><FONT COLOR="#4682B4" SIZE="4">No culpes a la noche… no culpes a la playa… La agrupación de este tema original fueron The Jackson 5, donde debutó Michael Jackson y el título en inglés era Blame It On The Boogie.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pOnxY24Y5vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<h3 id="Cuandocalientaelsol"><Font color="White" size="5"> 10. CUANDO CALIENTA EL SOL</font></H3>
+<P><FONT COLOR="#4682B4" SIZE="4">La han interpretado numerosos artistas desde Javier Solís hasta Pablo Monter. Luis Miguel la incluyó en el álbum ‘Soy como quiero ser’ en 1987 y alcanzó el número 50 de las hot latin songs en Billboard de Estados Unidos. El emblemático video se grabó en Acapulco.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTkJ-nP6pXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<h4 id="Friacomoelviento"><Font color="White" size="5"> 9. FRÍA COMO EL VIENTO</font></H4>
+<P><FONT COLOR="#4682B4" SIZE="4">La balada del sexto álbum de estudio de Luis Miguel, <I>"Busca una mujer"</I>; esta canción la incluyó en la lista de canciones para el 20 Años Tour en 1990.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D79-FN99dRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H5 id="Echameamilaculpa"><FONT COLOR="WHITE" SIZE="5"> 8. ECHAME A MÍ LA CULPA</H5>
+<P><FONT COLOR="#4682B4" SIZE="4">Compuesta por Jorge Ángel Espinoza, cuyos cantantes iniciales en grabarla fueron Amalia Mendoza, Flor Silvestre y Javier Solís.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HF4HnRzwfdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H6 id="Labikina"><FONT COLOR="WHITE" SIZE="5"> 7. LA BIKINA</FONT></H6>
+<P><FONT COLOR="#4682B4" SIZE="4">Esta interpretación de Luis Miguel, escrita por Rubén Fuentes, sigue siendo de las más afamadas de ‘El Sol de México’. La canción se grabó en el Auditorio Nacional.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCvJwzDQTBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H7 id="Sabesunacosa"><FONT COLOR="WHITE" SIZE="5"> 6. SABES UNA COSA</FONT></H7>
+<P><FONT COLOR="#4682B4" SIZE="4">Escrita por los compositores mexicanos Rubén Fuentes y Manuel Lozano Gallo, fue el bonus track del álbum ‘México en la piel’ —con éste se llevó un Latin Grammy por mejor álbum ranchero.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UuGrc3vvdMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H8 id="Suave"><FONT COLOR="WHITE" SIZE="5"> 5. SUAVE</FONT></H8>
+<P><FONT COLOR="#4682B4" SIZE="4">Tema del álbum ‘Aries’ (1993) que alcanzó el número nueve en la lista Billboard Hot Latin Songs de Estados Unidos y se incluyó en su otro álbum ‘Grandes éxitos’ (2005).</P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksoI-1X9sr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H9 id="Pordebajodelamesa"><FONT COLOR="WHITE" SIZE="5"> 4. POR DEBAJO DE LA MESA</FONT></H9>
+<P><FONT COLOR="#4682B4" SIZE="4">Canción escrita por Armando Manzanero, lanzada en 1997 y en cuyo video musical se aprecia a Luis Miguel en un restaurante de alta cocina en Nueva York. La nominaron a canción pop del año en Premios Lo Nuestro de 1998.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giAE7Yz7gHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H10 id="Tengotodoexceptoati"><FONT COLOR="WHITE" SIZE="5"> 3. TENGO TODO EXCEPTO A TI</FONT></H10>
+<P><FONT COLOR="#4682B4" SIZE="4">El sencillo que alcanzó el primer puesto en toda Iberoamérica, cuyo arreglo y escritura corrió a cargo de Juan Carlos Calderón. Fue el tema de su álbum ’20 años’ (1990) que también recibió numerosas nominaciones.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OThKTAVrUMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H11 id="Lamediavuelta"><FONT COLOR="WHITE" SIZE="5"> 2. LA MEDIA VUELTA</FONT></H11>
+<P><FONT COLOR="#4682B4" SIZE="4">Tema del cantautor José Alfredo Jiménez donde el video musical entrenado en 1994 fue una reconocida recopilación de estrellas: participaron Juan Gabriel, Lola Beltrán, Amalia Mendoza, Katy Jurado, Pablo Montero, Carlos Monsiváis, Ofelia Medina y José Alfredo Jiménez Jr.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfGc8PLZgaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H12 id="Ahoratepuedesmarchar"><FONT COLOR="WHITE" SIZE="5"> 1. AHORA TE PUEDES MARCHAR</FONT></H12>
+<P><FONT COLOR="#4682B4" SIZE="4">La canción incluida en el álbum ‘Soy como quiero ser’, cuya versión original es en inglés y fue escrita por Mike Hawker e Ivor Raymonde. Se lanzó oficialmente en 1988 y recibió una nominación al Grammy como mejor sencillo en español.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yG7MPEQm1-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>

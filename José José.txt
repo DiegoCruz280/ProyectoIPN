@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Los 10 mejores temas de José José y Discos Homenaje</title>
+	<style type="text/css">
+		body{background-sixe: cover; background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-color: #FFFFFF;}
+
+	</style>
+</head>
+	
+<body text="#6495ED" background="IMAGENES\JOSE JOSE.jpg" text="#00FFFF" leftmargin="12%" topmargin="5%" marginheight="5%" marginwidth="12%" LINK="#00FF7F" VLINK:"#E6E6FA" ALINK:"#E6E6FA">
+
+<h1><font color="#FFFFFF" SIZE="5"><MARQUEE BEHAVIOR=ALTERNATE>José Rómulo Sosa Ortíz (JOSÉ JOSÉ)</MARQUEE></font></h1>
+<p><font color="#87CEFA" size="5"><img src="IMAGENES\bugs-bunny-17
+.gif" align="right" width="240" height="200">El 'príncipe de la canción' dejó un repertorio que lo consagró como uno de 
+los mejores intérpretes en español de la historia. Una de las voces más prodigiosas de Latinoamérica se ha extinguido a los 71 años, pero ha dejado un repertorio musical que 
+quedará grabado en las mentes de millones de fanáticos. Estos 10 temas del Príncipe de la canción que han dejado huella, como muchos otros más temas, en la historia de la música en español y le han valido un lugar como uno de los mejores intérpretes que México ha legado al mundo.</font></p>
+
+<p><b><FONT COLOR="#87CEFA">Canciones:</b></FONT>
+<UL>
+<a href="#LANAVEDELOLVIDO"><LI><U>10. LA NAVE DEL OLVIDO (1970)</u></LI></a>
+<a href="#ELTRISTE"><LI><U>9. EL TRISTE (1970)</u></LI></a>
+<a href="#ELPRINCIPE"><LI><U>8. EL PRÍNCIPE (1976)</U></LI></a>
+<a href="#GAVILANOPALOMA"><LI><U>7. GAVILÁN O PALOMA (1977)</U></LI></a>
+<a href="#AMARYQUERER"><LI><U>6. AMAR Y QUERER (1977)</U></LI></a>
+<a href="#VOLCAN"><LI><U>5. VOLCÁN (1978)</U></LI></a>
+<a href="#LOPASADOPASADO"><LI><U>4. LO PASADO, PASADO (1978)</U></LI></a>
+<a href="#ALMOHADA"><LI><U>3. ALMOHADA (1978)</U></LI></a>
+<a href="#SIMEDEJASAHORA"><LI><U>2. SI ME DEJAS AHORA (1979)</U></LI></a>
+<a href="#LODUDO"><LI><U>1. LO DUDO (1984)</U></LI></a>
+</UL></P>
+
+
+
+<h2 id="LANAVEDELOLVIDO"><Font color="White" size="5"> 10. LA NAVE DEL OLVIDO (1970)</FONT></H2>
+<P><FONT COLOR="#87CEFA" SIZE="4"> El coro de La nave del olvido, el primer éxito del intérprete en México, fue en 1970 la primera muestra de lo que vendría en la carrera del cantante: interpretaciones excelsas con letras que calan en el corazón y la memoria. El sencillo forma parte de un elepé homónimo, su segundo álbum. Ganó disco de oro y de platino, en gran parte gracias a este tema compuesta por Dino Ramos.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDM0Oi9YdKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<h3 id="ELTRISTE"><Font color="White" size="5"> 9. EL TRISTE (1970)</font></H3>
+<P><FONT COLOR="#87CEFA" SIZE="4">La magistral interpretación de El triste en el segundo Festival de la Canción Latina (después OTI) se recuerda hasta nuestros días y significó el gran salto internacional en la carrera de José. Curiosamente, el cantante no ganó el concurso y tuvo que conformarse con el tercer puesto que le concedió el jurado. Su tercer álbum, nombrado como su icónico sencillo, salió poco después y con ello empezaron las giras por todo el continente. Mucho se lo debe a la joya que le regaló el legendario compositor Roberto Cantoral.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E20G25SCAEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<h4 id="ELPRINCIPE"><Font color="White" size="5"> 8. EL PRÍNCIPE (1976)</font></H4>
+<P><FONT COLOR="#87CEFA" SIZE="4">Cuando José José sacó El príncipe en 1976 ya tenía 10 álbumes a cuestas. Una seguidilla de éxitos en la primera mitad de la década de los setenta le valió el mote de El príncipe de la canción, que resultó innegable después de este sencillo, atesorado por sus seguidores más fieles. Fue en esa época también, cuando empezaron sus problemas con el alcoholismo.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWLxP3eiDO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H5 id="GAVILANOPALOMA"><FONT COLOR="WHITE" SIZE="5"> 7. GAVILÁN O PALOMA (1977)</H5>
+<P><FONT COLOR="#87CEFA" SIZE="4"> Este tema es, sin duda, uno de las canciones favoritas de José José entre el público. El sencillo apareció primero en el disco Reencuentro, pero regresó para dar el nombre de una película homónima sobre su vida en 1985. La banda sonora de la película incluía otros himnos como Almohada, Si me dejas ahora y Amar y querer. Aún causa polémica si la canción encierra el encuentro de José con un hombre, pero el intérprete ha asegurado que en realidad se trata de un joven que conquista a una mujer mayor que le supera en conocimientos sobre el sexo y el amor.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LR7F45paOVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H6 id="AMARYQUERER"><FONT COLOR="WHITE" SIZE="5"> 6. AMAR Y QUERER (1977)</FONT></H6>
+<P><FONT COLOR="#87CEFA" SIZE="4">Esta canción es uno de las odas más grandes al amor por parte del intérprete, que dedicó prácticamente toda su carrera a la balada romántica. “Casi todos sabemos querer, pero pocos sabemos amar”. La frase ha quedado grabada en el imaginario colectivo de los mexicanos y es imperdible en una sesión con los amigos para escuchar lo mejor de El príncipe de la canción.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzJ3QjBsqM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H7 id="VOLCAN"><FONT COLOR="WHITE" SIZE="5"> 5. VOLCÁN (1978)</FONT></H7>
+<P><FONT COLOR="#87CEFA" SIZE="4">Volcán dio nombre a su 12º disco, en el que hizo una mancuerna excepcional con el compositor español Rafael Pérez Botija. O tú o yo, Farolero, Pregúntaselo a ella y este clásico llegaron al primer lugar de las listas de popularidad de finales de los setenta.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRgz0JGdQPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H8 id="LOPASADOPASADO"><FONT COLOR="WHITE" SIZE="5"> 4. LO PASADO, PASADO (1978)</FONT></H8>
+<P><FONT COLOR="#87CEFA" SIZE="4">Juan Gabriel compuso un par de canciones para el siguiente disco de José José, que se estrenó en 1978: Lo pasado, pasado y Ahora no. El disco también incluía otro clásico, Lo que no fue no será, escrita por José María Napoleón. Lo pasado, pasado, que tiene el marcado sello de Juanga, se convirtió de inmediato en un éxito en la radio. “Pido un aplauso para el amor que a mí ha llegado…” es otra frase de José (y de Juan Gabriel) que ha quedado en la memoria de los amantes de la música mexicana de los setenta.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oObpxzkul3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H9 id="ALMOHADA"><FONT COLOR="WHITE" SIZE="5"> 3. ALMOHADA (1978)</FONT></H9>
+<P><FONT COLOR="#87CEFA" SIZE="4">Este tema, de la autoría del nicaragüense Adán Torres, narra la historia de un hombre enamorado y atormentado por el alcohol y los excesos. “A veces regreso borracho de angustia, te lleno de besos y caricias mustias”, reza el tema. Esa es una interpretación. Torres asegura al diario centroamericano La Prensa que su inspiración fue la inmigración y la nostalgia de sentirse lejos de su esposa mientras vivió en Estados Unidos.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i_91p6iBY_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H10 id="SIMEDEJASAHORA"><FONT COLOR="WHITE" SIZE="5"> 2. SI ME DEJAS AHORA (1979)</FONT></H10>
+<P><FONT COLOR="#87CEFA" SIZE="4">A finales de los setenta, la disquera BMG Ariola tenía planeado un plan para reforzar la internacionalización de dos titanes mexicanos: José José y Juan Gabriel. Esa fase de experimentación legó versiones en japonés del Divo de Juárez y fue la semilla para que sus canciones llegaran en varias lenguas y a varios países. El príncipe de la canción se alió con el icono español Camilo Sesto, quien le compuso Si me dejas ahora. El cantautor alicantino también grabó una versión de esta balada.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IHtw1_mibu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+<H11 id="LODUDO"><FONT COLOR="WHITE" SIZE="5"> 1. LO DUDO (1984)</FONT></H11>
+<P><FONT COLOR="#87CEFA" SIZE="4">Lo dudo fue el sencillo más exitoso de Secretos, el 19º álbum de José José y el más vendido de su carrera. El disco, que incluía también El amor acaba y Voy a llenarte toda, fue producido por Manuel Alejandro, se mantuvo varios meses en las listas de popularidad latinoamericanas y le valió una nominación al Grammy.</FONT></P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRvfemZJJU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<BR><BR><BR>
+
+<audio src="MUSICA\lo pasado pasado.mp3" autostart="FALSE" controls></audio>
+
+<P><B><I>DISCOS HOMENAJE</I></B>/P>
+
+<TABLE text="#87CEFA" border="3" align="center" border color="red" cellspacing="2">
+	<tr valign="bottom" align="center">
+	<td height="50" width="350" bgcolor="#ADFF2F">Año de publicación</td>
+	<th width="500" bgcolor="#ADFF2F">Título</th>
+	<th width="300" bgcolor="#ADFF2F">Artista</th>
+	</tr>
+<tr>
+	<th height="60" valign="top">1998</th>
+	<td align="center">Un Tributo (a José José)</td>	
+	<td align="left">Varios (Rock)</td>
+</tr>	
+	<tr>
+	<th height="60" valign="top">1999</th>
+	<td align="center">A mi amigo José</td>	
+	<td align="left">Chamin Correa</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2001</th>
+	<td align="center">Brindis para El Príncipe</td>	
+	<td align="left">Carlos Cuevas</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2002</th>
+	<td align="center">Tributo a los grandes: José José</td>	
+	<td align="left">Grupo Santa Clara</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2005</th>
+	<td align="center">Interpretando Los Grandes Éxitos de José José, Honor a quien honor merece</td>	
+	<td align="left">Grupo Mojado, Mijares</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2009</th>
+	<td align="center">Homenaje al Príncipe</td>	
+	<td align="left">Mariachi Sol de México</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2009</th>
+	<td align="center">Los Éxitos de José José en Bachata</td>	
+	<td align="left">El Gringo de la Bachata</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2010</th>
+	<td align="center">Viva el Príncipe</td>	
+	<td align="left">Cristian Castro</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2011</th>
+	<td align="center">Mi amigo el Príncipe, De un Coronel a un Príncipe</td>	
+	<td align="left">Cristian Castro, Juan Carlos Coronel</td>
+	</tr>
+<tr>
+	<th height="60" valign="top">2014</th>
+	<td align="center">Un Tributo (a José José) 2</td>	
+	<td align="left">Varios (Rock)</td>
+	</tr>
+	</table>
+
+
+</body>
+</html>

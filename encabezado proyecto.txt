@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Superior</title>
+</head>
+<body bgcolor="black">
+
+	<img src="IMAGENES\Bugs bunny.jpg" width="1324" height="168" align="center">
+
+</body>
+</html>

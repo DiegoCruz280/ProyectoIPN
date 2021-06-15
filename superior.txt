@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="es">
+<head>
+<title>Superior</title>
+</head>
+<body bgcolor="black">
+<h1><Font color="white" size="6"><img src="IMAGENES\bugs-bunny-10.gif" align="right" width="240" height="200"><img src="IMAGENES\bugs-bunny-13.gif" align="left" width="240" height="200"><marquee behavior="alternate">CRUZ ROSALES DIEGO 2IM13</marquee></font></h1>
+
+</body>
+</html>

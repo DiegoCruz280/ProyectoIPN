@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>index</title>
+</head>
+	<frameset rows="18%,*" frameborder="yes" bordercolor="#333" marginwidth="10%" marginheight="10%" scrolling="no">
+		<frame scr="encabezado proyecto.html" name="sup"></frame>
+		<frameset cols="20%,*" frameborder="yes" bordercolor="#333" marginwidth="10%" marginheight="30%" scrolling="yes"> 
+			<frame src="menu proyecto.html" name="menu"></frame>
+			<frame src="derecho.html" name="der"></frame>	
+	</frameset>
+	</frameset>
+</html>
